@@ -13,7 +13,7 @@
 	<head>
 		
 		<section>
-			<div style="float: left; width: 40%; padding: 30px;">
+			<div style="float: left; width: 60%; padding: 30px;">
 		
 				<table id="Central tabs" style="width:80%" border= 5px bordercolor = #404040 margin-right: 0px margin-left: auto;>
 					<thead>
@@ -26,16 +26,16 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td id="Resource Tab" ><a href="./Resources.php">Resources</a></td>
-							<td id="FAQ Tab"><a href="./FAQ.php">FAQ</a></td>
-							<td id="Calendar Tab"><a href="./Calendar.php">Event Calendar</a></td>
-							<td id="Help Tab"><a href="./Help.php">Help & About</a></td>
+							<td id="Resource Tab"> <img src="Images/icons in use/mystery data dull.png" width="50" height="50"> <a href="./Resources.php">Resources</a></td>
+							<td id="FAQ Tab"> <img src="Images/icons in use/cornthink3 dull.png" width="50" height="50"> <a href="./FAQ.php">FAQ</a></td>
+							<td id="Calendar Tab"> <img src="Images/icons in use/BBS dull.png" width="50" height="50"> <a href="./Calendar.php">Event Calendar</a></td>
+							<td id="Help Tab"> <img src="Images/icons in use/question tfc dull.png" width="50" height="50"> <a href="./Help.php">Help & About</a></td>
 						</tr>
 						<tr>
-							<td id="SW Tab"><a href="./Software.php">Software Guides</a></td>
-							<td id="Bn6 Tab"><a href="./BN6.php">BN6 Guides</a></td>
-							<td id="ColBot Tab"><a href="./Colbot.php">ColonelBot Commands</a></td>
-							<td id="Rules Tab"><a href="./Rules.php">Server Rules</a></td>
+							<td id="SW Tab"> <img src="Images/icons in use/connect2 dull.png" width="50" height="50"> <a href="./Software.php">Software Guides</a></td>
+							<td id="Bn6 Tab"> <img src="Images/icons in use/bn6 dull.png" width="50" height="50"> <a href="./BN6.php">BN6 Guides</a></td>
+							<td id="ColBot Tab"> <img src="Images/icons in use/qbot dull.png" width="50" height="50"> <a href="./Colbot.php">ColonelBot Commands</a></td>
+							<td id="Rules Tab"> <img src="Images/icons in use/truth dull.png" width="50" height="50"> <a href="./Rules.php">Server Rules</a></td>
 						</tr>
 					</tbody>
 				</table>

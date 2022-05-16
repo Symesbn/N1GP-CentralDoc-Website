@@ -38,22 +38,26 @@
 	<h2>Q: What games are being played in the N1GP?</h2>
 </div>
 
-<div class="contentBingus" style="height:175px">	
+<div class="contentBingus" style="height:125px">	
 	<p>A We primarily play MegaMan Battle Network 6, the US version (BN6). Virtually any similar game that can be played online will be played on occasion though.</p>
 	<p>Megaman Battle Network 6 (abbreviated to BN6) is the easiest to set up due to it supporting pvp through the wireless adaptor, which for over a decade was the only functional method of connecting over the internet.<br>
 		The online pvp community was established through BN6, and it remains the premier game of the community. The Japanese version (EXE6) is occasionally used, but only when playing the Modcards format.</p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>Can I play other Battle Network games online, like BN3?</h2>
+	<h2>Q: Can I play other Battle Network games online, like BN3?</h2>
 </div>
 
 <div class="contentBingus">	
 	<p>Yes. The older Battle Network games are also playable, but it should be noted that the setup process is more complicated for those games, so fewer people can play them as a result.</p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>Do you guys host tournaments?</h2>
+	<h2>Q: Do you guys host tournaments?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -61,24 +65,30 @@
 	<p>BN6/EXE6 is the most accessible BN game to play online. So far it's been the only BN game with enough engagement to have online tournaments ran for it.</p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>What software do we use to play BN6 online?</h2>
+	<h2>Q: What software do we use to play BN6 online?</h2>
 </div>
 
-<div class="contentBingus">	
+<div class="contentBingus" style="height:40px">	
 	<p>Tango and Radmin. Everything you need is provided in the Resource Folder, besides game ROMs.</p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>Can I play everyone on MyBoy! emulator instead of Tango?</h2>
+	<h2>Q: Can I play everyone on MyBoy! emulator instead of Tango?</h2>
 </div>
 
 <div class="contentBingus">	
 	<p>Some people do have MyBoy set up and ready to play, but when it comes to playing BN6 you'll need to use VBA-Link on Windows.</p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>Which discord channel do I use for finding matches in BN6?</h2>
+	<h2>Q: Which discord channel do I use for finding matches in BN6?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -86,8 +96,10 @@
 		This unlocks access to the !atb command, use it in chat to temporarily equip the Available To Battle role. When you're done use !unav to remove the role.</p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>How do I get started?</h2>
+	<h2>Q: How do I get started?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -95,8 +107,10 @@
 	<p><a href="Software_Guide.php">And then follow the guide for setting up Tango</a></p>
 </div>
 
+<br>
+
 <div class="questionBingus">
-	<h2>Are game ROMs provided in the download? Can I ask where to get them?</h2>
+	<h2>Q: Are game ROMs provided in the download? Can I ask where to get them?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -105,8 +119,10 @@
 	<p><a href="https://www.gamebrew.org/wiki/GBA_Backup_Tool">https://www.gamebrew.org/wiki/GBA_Backup_Tool</a></p>
 </div>
 
-<div class="questionBingus">
-	<h2>I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</h2>
+<br>
+
+<div class="questionBingus" style="height:100px">
+	<h2>Q: I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -130,17 +146,17 @@
 
 
 <div class="questionBingus">
-	<h2>What is the #strategies channel? What kind of strategies do we discuss in there?</h2>
+	<h2>Q: What is the #strategies channel? What kind of strategies do we discuss in there?</h2>
 </div>
 
-<div class="contentBingus" style="height:175px">	
+<div class="contentBingus" style="height:100px">	
 	<p>The strategies channel is meant only for BN6/EXE6 pvp discussion. Due to the high volume of pvp-centric discussion about BN6, it has its own channel.</p>
 	<p>Many dedicated netbattlers wanted a place where they could discuss netbattling strategies and receive serious feedback from others.<br>
 		This channel is only meant for BN6 pvp discussion. When discussing other BN games, use the general chat or the legacy-pvp channel.</p>
 </div>
 
 <div class="questionBingus">
-	<h2>What are the #legacy-pvp & #starforce-pvp channels meant for?</h2>
+	<h2>Q: What are the #legacy-pvp & #starforce-pvp channels meant for?</h2>
 </div>
 
 <div class="contentBingus" style="height:175px">	
@@ -151,10 +167,10 @@
 </div>
 
 <div class="questionBingus">
-	<h2>What's up with these roles like "Netbattler" and "Legacy Battler"?</h2>
+	<h2>Q: What's up with these roles like "Netbattler" and "Legacy Battler"?</h2>
 </div>
 
-<div class="contentBingus" style="height:230">	
+<div class="contentBingus" style="height:270">	
 	<p>There are a total of 2 roles that are used to show which activities you're interested in. Here are the roles and what they mean:</p>
 	<p>Netbattler - This is for BN6 online pvp players. It unlocks access to bot commands for matchmaking and Radmin/Hamachi server credentials.<br>
 		It also gives permission to post and embed images in chat. You'll get pinged for event announcements such as tournaments and streams. </p>
@@ -166,7 +182,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Any other notable roles in the Discord?</h2>
+	<h2>Q: Any other notable roles in the Discord?</h2>
 </div>
 
 <div class="contentBingus" style="height:420px">	
@@ -182,11 +198,11 @@
 	<p>Nitro Booster - This decorative pink role is automatically equipped when you use a Discord Nitro Boost on our server.</p>
 </div>
 
-<div class="questionBingus">
-	<h2>What are the requirements to have my Youtube or Twitch channel featured in the channel catalog on the Resources page?</h2>
+<div class="questionBingus" style="height:100px">
+	<h2>Q: What are the requirements to have my Youtube or Twitch channel featured in the channel catalog on the Resources page?</h2>
 </div>
 
-<div class="contentBingus" style="height:250px">	
+<div class="contentBingus" style="height:300px">	
 	<p>The majority of your videos should be Battle Network pvp-related. By being included in the catalog, your channel is representing the type of content that people will expect from the N1GP.</p>
 	<p>Here are the specific requirements. Supporters will use these qualifications to decide whether a new channel is eligible to be included.</p>
 	<ul>
@@ -217,7 +233,7 @@
 
 
 <div class="questionBingus">
-	<h2>What are the rules for BN6?</h2>
+	<h2>Q: What are the rules for BN6?</h2>
 </div>
 
 <div class="contentBingus" style="height:500px">	
@@ -240,7 +256,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>What are BN6 tournaments like?</h2>
+	<h2>Q: What are BN6 tournaments like?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -249,7 +265,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>What does the EXE6 patch do?</h2>
+	<h2>Q: What does the EXE6 patch do?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -356,11 +372,11 @@
 </ul>
 
 
-<div class="questionBingus">
+<div class="questionBingus" style="height:100px">
 	<h2>Q: I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</h2>
 </div>
 
-<div class="contentBingus" style="height:175px">	
+<div class="contentBingus" style="height:420px">	
 	<p>For most Battle Network games there are 3 localized versions: US, EU, & JP. Save files and pvp connections are not compatible between different localized versions.</p>
 	<p>If you can't load the save file, it's likely because you have the wrong version of the game. If you can't connect to anyone else, it's likely for the same reason.</p>
 	<p>Make sure you're not trying to load a Japanese save file in the English version, or vice versa. If you're sure both the save file and game are the English version, the problem may be that you're using the EU game.<br>
