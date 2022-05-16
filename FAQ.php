@@ -19,15 +19,15 @@
 <p>This is a FAQ list that serves as an introduction to the netbattling community. Read this section first.</p>
 	
 <ul>
-	<li><a href="FAQ.php">What games are being played in the N1GP?</a></li>
-	<li><a href="FAQ.php">Can I play other Battle Network games online, like BN3?</a></li>
-	<li><a href="FAQ.php">Do you guys host tournaments?</a></li>
-	<li><a href="FAQ.php">What software do we use to play BN6 online?</a></li>
-	<li><a href="FAQ.php">Can I play everyone on MyBoy! emulator instead of Tango?</a></li>
-	<li><a href="FAQ.php">Which discord channel do I use for finding matches in BN6?</a></li>
-	<li><a href="FAQ.php">How do I get started?</a></li>
-	<li><a href="FAQ.php">Are game ROMs provided in the download? Can I ask where to get them?</a></li>
-	<li><a href="FAQ.php">I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</a></li>
+	<li><a href="#IntroQ1">What games are being played in the N1GP?</a></li>
+	<li><a href="#IntroQ2">Can I play other Battle Network games online, like BN3?</a></li>
+	<li><a href="#IntroQ3">Do you guys host tournaments?</a></li>
+	<li><a href="#IntroQ4">What software do we use to play BN6 online?</a></li>
+	<li><a href="#IntroQ5">Can I play everyone on MyBoy! emulator instead of Tango?</a></li>
+	<li><a href="#IntroQ6">Which discord channel do I use for finding matches in BN6?</a></li>
+	<li><a href="#IntroQ7">How do I get started?</a></li>
+	<li><a href="#IntroQ8">Are game ROMs provided in the download? Can I ask where to get them?</a></li>
+	<li><a href="#IntroQ9">I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</a></li>
 </ul>
 
 <br>
@@ -35,7 +35,7 @@
 <p>Welcome to the big N1GP resource cache.</p>
 
 <div class="questionBingus">
-	<h2>Q: What games are being played in the N1GP?</h2>
+	<h2 id="IntroQ1">Q: What games are being played in the N1GP?</h2>
 </div>
 
 <div class="contentBingus" style="height:125px">	
@@ -47,7 +47,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: Can I play other Battle Network games online, like BN3?</h2>
+	<h2 id="IntroQ2">Q: Can I play other Battle Network games online, like BN3?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -57,7 +57,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: Do you guys host tournaments?</h2>
+	<h2 id="IntroQ3">Q: Do you guys host tournaments?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -68,7 +68,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: What software do we use to play BN6 online?</h2>
+	<h2 id="IntroQ4">Q: What software do we use to play BN6 online?</h2>
 </div>
 
 <div class="contentBingus" style="height:40px">	
@@ -78,7 +78,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: Can I play everyone on MyBoy! emulator instead of Tango?</h2>
+	<h2 id="IntroQ5">Q: Can I play everyone on MyBoy! emulator instead of Tango?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -88,7 +88,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: Which discord channel do I use for finding matches in BN6?</h2>
+	<h2 id="IntroQ6">Q: Which discord channel do I use for finding matches in BN6?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -99,7 +99,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: How do I get started?</h2>
+	<h2 id="IntroQ7">Q: How do I get started?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -110,7 +110,7 @@
 <br>
 
 <div class="questionBingus">
-	<h2>Q: Are game ROMs provided in the download? Can I ask where to get them?</h2>
+	<h2 id="IntroQ8">Q: Are game ROMs provided in the download? Can I ask where to get them?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -122,7 +122,7 @@
 <br>
 
 <div class="questionBingus" style="height:100px">
-	<h2>Q: I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</h2>
+	<h2 id="IntroQ9">Q: I downloaded one of the save files but it's not working. Or the save works but I can't connect to anyone else ingame. What's wrong?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -137,16 +137,16 @@
 <p>This section contains topics that are relevant to the N1GP Discord Server.</p>
 
 <ul>
-	<li><a href="FAQ.php">What is the #strategies channel? What kind of strategies do we discuss in there?</a></li>
-	<li><a href="FAQ.php">What are the #legacy-pvp & #starforce-pvp channels meant for?</a></li>
-	<li><a href="FAQ.php">What's up with these roles like "Netbattler" and "Legacy Battler"?</a></li>
-	<li><a href="FAQ.php">Any other notable roles in the Discord?</a></li>
-	<li><a href="FAQ.php">What are the requirements to have my Youtube or Twitch channel featured in the channel catalog on the Resources page?</a></li>
+	<li><a href="#DiscordQ1">What is the #strategies channel? What kind of strategies do we discuss in there?</a></li>
+	<li><a href="#DiscordQ2">What are the #legacy-pvp & #starforce-pvp channels meant for?</a></li>
+	<li><a href="#DiscordQ3">What's up with these roles like "Netbattler" and "Legacy Battler"?</a></li>
+	<li><a href="#DiscordQ4">Any other notable roles in the Discord?</a></li>
+	<li><a href="#DiscordQ5">What are the requirements to have my Youtube or Twitch channel featured in the channel catalog on the Resources page?</a></li>
 </ul>
 
 
 <div class="questionBingus">
-	<h2>Q: What is the #strategies channel? What kind of strategies do we discuss in there?</h2>
+	<h2 id="DiscordQ1">Q: What is the #strategies channel? What kind of strategies do we discuss in there?</h2>
 </div>
 
 <div class="contentBingus" style="height:100px">	
@@ -156,7 +156,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: What are the #legacy-pvp & #starforce-pvp channels meant for?</h2>
+	<h2 id="DiscordQ2">Q: What are the #legacy-pvp & #starforce-pvp channels meant for?</h2>
 </div>
 
 <div class="contentBingus" style="height:175px">	
@@ -167,7 +167,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: What's up with these roles like "Netbattler" and "Legacy Battler"?</h2>
+	<h2 id="DiscordQ3">Q: What's up with these roles like "Netbattler" and "Legacy Battler"?</h2>
 </div>
 
 <div class="contentBingus" style="height:270">	
@@ -182,7 +182,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: Any other notable roles in the Discord?</h2>
+	<h2 id="DiscordQ4">Q: Any other notable roles in the Discord?</h2>
 </div>
 
 <div class="contentBingus" style="height:420px">	
@@ -199,7 +199,7 @@
 </div>
 
 <div class="questionBingus" style="height:100px">
-	<h2>Q: What are the requirements to have my Youtube or Twitch channel featured in the channel catalog on the Resources page?</h2>
+	<h2 id="DiscordQ5">Q: What are the requirements to have my Youtube or Twitch channel featured in the channel catalog on the Resources page?</h2>
 </div>
 
 <div class="contentBingus" style="height:300px">	
@@ -223,17 +223,17 @@
 <p>This section is all about playing Battle Network 6 online pvp (both BN6 and EXE6).</p>
 
 <ul>
-	<li><a href="FAQ.php">What are the rules for BN6?</a></li>
-	<li><a href="FAQ.php">What are BN6 tournaments like?</a></li>
-	<li><a href="FAQ.php">What does the EXE6 patch do?</a></li>
-	<li><a href="FAQ.php">Why do people sometimes play the Japanese EXE6 version?</a></li>
-	<li><a href="FAQ.php">What are the notable formats for BN6?</a></li>
-	<li><a href="FAQ.php">What's the strongest folder in BN6?</a></li>
+	<li><a href="#BN6Q1">What are the rules for BN6?</a></li>
+	<li><a href="#BN6Q2">What are BN6 tournaments like?</a></li>
+	<li><a href="#BN6Q3">What does the EXE6 patch do?</a></li>
+	<li><a href="#BN6Q4">Why do people sometimes play the Japanese EXE6 version?</a></li>
+	<li><a href="#BN6Q5">What are the notable formats for BN6?</a></li>
+	<li><a href="#BN6Q6">What's the strongest folder in BN6?</a></li>
 </ul>
 
 
 <div class="questionBingus">
-	<h2>Q: What are the rules for BN6?</h2>
+	<h2 id="BN6Q1">Q: What are the rules for BN6?</h2>
 </div>
 
 <div class="contentBingus" style="height:500px">	
@@ -256,7 +256,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: What are BN6 tournaments like?</h2>
+	<h2 id="BN6Q2">Q: What are BN6 tournaments like?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -265,7 +265,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: What does the EXE6 patch do?</h2>
+	<h2 id="BN6Q3">Q: What does the EXE6 patch do?</h2>
 </div>
 
 <div class="contentBingus">	
@@ -273,7 +273,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: Why do people sometimes play the Japanese EXE6 version?</h2>
+	<h2 id="BN6Q4">Q: Why do people sometimes play the Japanese EXE6 version?</h2>
 </div>
 
 <div class="contentBingus" style="height:175px">	
@@ -283,7 +283,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: What are the notable formats for BN6?</h2>
+	<h2 id="BN6Q5">Q: What are the notable formats for BN6?</h2>
 </div>
 
 <div class="contentBingus" style="height:2250px">	
@@ -353,7 +353,7 @@
 </div>
 
 <div class="questionBingus">
-	<h2>Q: What's the strongest folder in BN6?</h2>
+	<h2 id="BN6Q6">Q: What's the strongest folder in BN6?</h2>
 </div>
 
 <div class="contentBingus" style="height:175px">	
