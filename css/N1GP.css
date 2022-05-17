@@ -10,8 +10,8 @@
 	width:100%;
 }
 body {
-	max-width:3200px;
-	min-width:1400px;
+	/* max-width:3200px; */
+	/* min-width:1400px; */
 	padding: 30px;
     font-family: calibri, arial, tahoma, verdana, sans-serif;
     background-color: #F3FFFF;
