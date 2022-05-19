@@ -219,7 +219,7 @@
 
 
 
-<h2>Battle Network 6</h2>
+<h2 id="BN6 FAQs">Battle Network 6</h2>
 <p>This section is all about playing Battle Network 6 online pvp (both BN6 and EXE6).</p>
 
 <ul>

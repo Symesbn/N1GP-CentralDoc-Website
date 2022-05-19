@@ -1,9 +1,9 @@
 <?php
-   $title = "Rules";
+   $title = "Colbot";
    $date = "2022-05-16";
-   $filename = "Rules.php";
+   $filename = "Colbot.php";
    $banner = "N1GP Central Document";
-   $description = "Rules page of central doc";
+   $description = "Colbot page of central doc";
    $author = "Symes"
 ?>
 
@@ -93,3 +93,5 @@
 <p>The bot also maintains and modifies user roles (Available to Battle, Netbattler License, Official Battler). Though this is initiated by User interaction directly, we are required to disclose this functionality.</p>
 
 <p>By continuing to participate in the N1 Grand Prix server, you agree to and grant express consent to the collecting of your username, Discord User ID, and chat messages (if it's even stored at all, "chat messages" refers to the saving of quotes).</p>
+
+<?php include 'Footer.php' ?>
