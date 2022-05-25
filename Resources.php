@@ -212,7 +212,14 @@
 	<p>This server specializes in Starforce 3 pvp.<br>It's a great place to go for resources, matchmaking, tournaments, and discussion.</p>
 </div>
 
-<p>Todo: Add Net Saviors here?</p>
+<br>
+
+<div class="contentBingus" style="height:115px; ">
+	<img src="Images/NetSaviors.png" width="110" height="110" style="float: left;"> 
+	<h3><a href="https://discord.gg/cKgTcvz">Net Saviors Discord Server</a></h3>
+	<p>This server is primarily based in Latin America.<br>They play all of the BN and StarForce games using the MultiGBA S Emulator.<br>
+		Refer to the legacy PVP guide for further details.</p>
+</div>
 
 
 <br>
